@@ -17,4 +17,7 @@ class MainActivity : AppCompatActivity() {
     private  fun  upLoad(){
 
     }
+    private  fun test(){
+        // test 方法
+    }
 }
